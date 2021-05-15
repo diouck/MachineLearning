@@ -1,1 +1,1 @@
-# MachineLearning : CARTE D’OCCUPATION DES SOLS 2018 AVEC SENTINELLE 2
+# MachineLearning : Model prefictif >Random Forest pour une Carte d'occupation du sol avec les données Sentinel 2
